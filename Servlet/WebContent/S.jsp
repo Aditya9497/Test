@@ -7,4 +7,5 @@
 <% String s = request.getParameter("username");
 	out.print("Welcome " + s); %>
 </body>
+
 </html>
